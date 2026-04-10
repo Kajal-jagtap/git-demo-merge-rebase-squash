@@ -11,3 +11,4 @@ This feature branch is used to demonstrate normal merge.
 >>>>>>> feature-merge-demo
 
 ## Rebase Demo Feature
+This feature branch is used to demonstrate rebase.
